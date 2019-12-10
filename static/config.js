@@ -13,7 +13,7 @@ var inGameName = "Richie";
 // ***********************************************************************************
 // URL of your Reddit/Twitter account
 // ***********************************************************************************
-var contactUrl = "http://reddit.com/u/richi3f";
+var contactUrl = "https://hq.porygon.co/u/SilverDwarf330";
 
 // ***********************************************************************************
 // URL of your PGL trainer icon (optional)
