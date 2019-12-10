@@ -8,12 +8,12 @@ var spreadsheetId = "1P9wMb9e0YbhcOua9RQeRCJjllf_L77uV-7i4Q0Yor0o";
 // Your FC and IGN
 // ***********************************************************************************
 var friendCode = "4597-0550-9417";
-var inGameName = "Lynn";
+var inGameName = "Richie";
 
 // ***********************************************************************************
 // URL of your Reddit/Twitter account
 // ***********************************************************************************
-var contactUrl = "http://reddit.com/u/SilverDwarf330";
+var contactUrl = "http://reddit.com/u/richi3f";
 
 // ***********************************************************************************
 // URL of your PGL trainer icon (optional)
